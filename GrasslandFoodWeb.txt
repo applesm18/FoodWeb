@@ -1,0 +1,8 @@
+Food Web Predators & Prey:
+Grass
+Grasshopper eats Grass
+Hawk eats Lizard, Mouse, Snake, Grasshopper, Rabbit
+Lizard eats Grasshopper
+Rabbit eats Grass
+Snake eats Mouse
+Mouse eats Grass
